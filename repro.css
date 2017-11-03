@@ -1,0 +1,266 @@
+body{
+    background-color:#515f67;
+}
+#page{
+    max-width:1920px;
+    max-height:4675px;
+    font-family: 'Segoe UI';
+}
+header{
+    background-image:url(images/hero.jpg);
+    height:800px;
+    font-family: 'Segoe UI';
+    font-weight:bold;
+}
+#blueasy{
+    background-color:#444f56;
+    height:150px;
+    opacity: 0.7;
+}
+h1{
+    color:white;
+    font-size:30pt;
+    display:inline-block;
+    margin-right:385px;
+    font-weight:bold;
+    margin-left:240px;
+    padding:25px;
+}
+h1 span{
+    color:#4bcaff;
+}
+.menu{
+    color: white;
+    display:inline-block;
+    margin-left:500px;
+    font-weight:bold;
+    margin:25px;
+}
+a:hover{
+    color:#4bcaff;
+}
+a:active{
+    border:1px solid #4bcaff;
+}
+ul,li{
+    margin:25px;
+    display: inline-block;
+}
+#texte{
+    margin-left:610px;
+    font-size:32pt;
+    padding-top:170px;
+    color:white;
+    font-weight:normal;
+}
+#textes{
+    margin-left:460px;
+    font-size:32pt;
+    padding-top:0px;
+    color:white;
+    font-weight:normal;
+}
+h2{
+    color:white;
+    font-size:30pt;
+    margin-left:240px;
+    margin-right:385px;
+    padding:25px;
+    font-weight: normal;
+}
+.underline{
+    text-decoration:underline;
+}
+#services{
+    color:white;
+    font-family:'segoe UI';
+    background-color:#4bcaff;
+    height:405px;
+    padding:1px;
+}
+#logo{
+    display:flex;
+    justify-content:space-between; 
+    width:60%;
+    margin-right:15%;
+    margin-left:15%;
+}
+.column{
+    display:flex;
+    justify-content:space-between;
+    font-size:8pt;
+    width:68%;
+    margin-left: 15%;
+}
+h3{
+    color:black;
+    font-size:30pt;
+    display:inline-block;
+    margin-right:385px;
+    font-weight:normal;
+    margin-left:240px;
+    padding:25px;
+}
+#Portfolio{
+    background-color:white;
+    font-family: 'Segoe UI';
+    height:845px;
+    color:black;
+}
+.port{
+    margin:25px;
+    display: inline-block;
+    color:black;
+    font-weight:bold;
+}
+#images{
+    margin-left:22%;
+}
+h4{
+    color:white;
+    font-size:30pt;
+    margin-right:385px;
+    font-weight:normal;
+    margin-left:240px;
+    padding:25px;
+}
+#Justdefault{
+    background-color:#515f67;
+    height:470px;
+    font-family: 'Segoe UI';
+    color: white;
+    font-weight:normal;
+}
+#textdefault{
+    margin-left:15%;
+    margin-top:0%;
+    font-size:12pt;
+}
+#video{
+    margin-left:50%;
+    margin-top:-18%;
+}
+h5{
+    color:white;
+    font-size:30pt;
+    display:inline-block;
+    margin-right:385px;
+    font-weight:normal;
+    margin-left:240px;
+    padding:25px;
+}
+#twitter{
+    background-color:#4bcaff;
+    height:295px;
+    font-family: 'Segoe UI';
+    font-weight:normal;
+}
+#textwitter{
+    margin-left:15%;
+    margin-top:-7%;
+    color:white;
+    font-size:25pt;
+}
+h6{
+    color:white;
+    font-size:30pt;
+    display:inline-block;
+    margin-right:385px;
+    font-weight:normal;
+    margin-left:240px;
+    padding:25px;
+}
+#Johndoe{
+    background-image:url(images/john.png);
+    height:505px;
+    font-family: 'Segoe UI';
+    font-weight:normal;
+}
+#textjohn{
+    display:inline-block;
+    color:white;
+    margin-left:14%;
+    margin-top:-4%
+}
+#textjohndoe{
+    color:white;
+    margin-left:50%;
+    margin-top:-10%;
+}
+h7{
+    color:black;
+    font-size:30pt;
+    display:inline-block;
+    margin-right:385px;
+    font-weight:normal;
+    margin-left:240px;
+    padding:25px;
+}
+#Test{
+    background-color:white;
+    height:360px;
+    font-family: 'Segoe UI';
+    font-weight:normal;
+}
+#test{
+    margin-left:15%;
+    margin-top:0%;
+    color:black;
+    font-size:25pt;
+}
+h8{
+    color:white;
+    font-size:30pt;
+    display:inline-block;
+    margin-right:385px;
+    font-weight:normal;
+    margin-left:240px;
+    padding:25px;
+}
+#contact{
+    background-image:url(images/contact.png);
+    height:760px;
+    font-family: 'Segoe UI';
+    font-weight:normal;
+}
+#textact{
+    font-family: 'Segoe UI';
+    font-weight:normal;
+    color:white;
+    margin-left:45%;
+    margin-top:-5%;
+}
+label{
+    margin-left:15%;
+    color:white;
+}
+input{
+    width:470px;
+    height:60px;
+    margin-left:15%;
+    background-color: transparent;
+}
+textarea{
+    width:1170px;
+    height:220px;
+    margin-left:15%;
+    background-color:transparent;
+}
+Button{
+    background-color:#4bcaff;
+    color:white;
+    width:370px;
+    height:65px;
+    margin-left:15%;
+}
+.footer{
+    display: inline-block;
+    color:white;
+    font-weight:bold;
+}
+footer{
+    background-color:#444f56;
+    height:150px;
+    opacity: 0.7;
+    font-family: 'Segoe UI';
+}
